@@ -1,1 +1,1 @@
-# Kuro-kitten's Backyard is ongoing to online!
+# Kuro-kitten's backyard is ongoing to online!
