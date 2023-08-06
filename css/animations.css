@@ -1,0 +1,6 @@
+nav a:hover {
+    color: rgb(45, 45, 45);
+    background-color: #ff7dd8;
+    text-decoration: solid;
+    border-radius: 5px;
+}
