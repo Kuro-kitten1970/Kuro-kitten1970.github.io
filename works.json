@@ -1,7 +1,7 @@
 [
     {
         "project": "C-Sharp Winforms For MTD School Project",
-        "info": "Collect all of computer programming subject assignments from Matthayom Dankhunthod School.",
+        "info": "Collect all computer programming subject assignments from Matthayom Dankhunthod School.",
         "web": "github",
         "link": "https://github.com/Kuro-kitten1970/C-Sharp-Winforms-For-MTD-School-Project"
     },
@@ -13,7 +13,7 @@
     },
     {
         "project": "C-Sharp Winforms For RSU Project",
-        "info": "Collect all of computer programming from Rangsit University.",
+        "info": "Collect all computer subject assignments programming from Rangsit University.",
         "web": "none",
         "link": ""
     }
