@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    display: table;
+}
+
+th {
+    background-color: #1A1A1B;
+    border: 1px solid #94F3E4;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    font-size: small;
+    background-color: #1A1A1B;
+    border: 1px solid #94F3E4;
+    text-align: left;
+    padding: 8px;
+}

@@ -11,7 +11,7 @@ newHeader.innerHTML = navhtml;
 document.getElementById("nav").appendChild(newHeader);
 
 const newFooter = document.createElement("footer");
-const footerhtml = '<p>&copy; Copyright Kuro_kitten 2023</p>';
+const footerhtml = '<p>Kuro_kitten &copy;Copyright 2023</p>';
 footerhtml.trim();
 newFooter.innerHTML = footerhtml;
 document.getElementById("footer").appendChild(newFooter);
