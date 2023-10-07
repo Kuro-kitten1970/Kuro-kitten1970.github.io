@@ -1,20 +1,26 @@
 [
     {
+        "project": "C-Sharp Winforms For RSU Project",
+        "info": "Collect all computer programming subject assignments from Rangsit University.",
+        "web": "github",
+        "link": "https://github.com/Kuro-kitten1970/C-Sharp-Winforms-For-RSU-Project"
+    },
+    {
         "project": "C-Sharp Winforms For MTD School Project",
         "info": "Collect all computer programming subject assignments from Matthayom Dankhunthod School.",
         "web": "github",
         "link": "https://github.com/Kuro-kitten1970/C-Sharp-Winforms-For-MTD-School-Project"
     },
     {
+        "project": "Black Kitten Music Player",
+        "info": "A Music Player that developed with Naudio Libraly.",
+        "web": "none",
+        "link": ""
+    },
+    {
         "project": "C-Sharp Painting Program",
         "info": "Lab Sheet 02 for DIT101 Rangsit University.",
         "web": "github",
         "link": "https://github.com/Kuro-kitten1970/C-Sharp-Painting-Program"
-    },
-    {
-        "project": "C-Sharp Winforms For RSU Project",
-        "info": "Collect all computer programming subject assignments from Rangsit University.",
-        "web": "none",
-        "link": ""
     }
 ]

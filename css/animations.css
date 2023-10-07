@@ -2,5 +2,11 @@ nav a:hover {
     color: #1A1A1B;
     background-color: #94F3E4;
     text-decoration: solid;
-    border-radius: 5px;
+    border-radius: 10px;
+}
+
+#social-buttons button:hover {
+    background-color: #37AA9C;
+    cursor: pointer;
+    padding: 9%;
 }
